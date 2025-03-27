@@ -74,6 +74,7 @@ CSS ensures smooth animations for better user experience.
 
 Feel free to fork, clone, and improve the project. If you have suggestions, create an issue or a pull request.
 
-✍️ Author
+## ✍️ Author
+
 Ashish Sharma<br>
 ashishsharma10436@gmail.com
