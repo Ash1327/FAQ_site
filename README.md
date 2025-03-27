@@ -34,7 +34,7 @@ JavaScript – Interactive toggle functionality.
 
 Clone the repository:
 
-git clone [https://github.com/Ash1327/FAQ_site.git]
+git clone https://github.com/Ash1327/FAQ_site.git
 
 Navigate to the project folder:
 
