@@ -38,7 +38,7 @@ git clone https://github.com/your-username/faq-webpage.git
 
 Navigate to the project folder:
 
-cd faq-webpage
+cd faq_site
 
 Open index.html in your browser.
 
