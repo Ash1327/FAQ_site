@@ -49,7 +49,7 @@ faq-webpage/
 │── index.html   # Main HTML file
 │── style.css    # Stylesheet
 │── script.js    # JavaScript for toggle effect
-└── assets/      # Images & other assets
+
 </pre>
 
 ## 💡 How It Works
