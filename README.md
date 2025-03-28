@@ -68,7 +68,7 @@ CSS ensures smooth animations for better user experience.
 
 🌗 Dark mode toggle for better accessibility.
 
-📚 Categories to group related questions.
+
 
 ## 🏆 Contributing
 
